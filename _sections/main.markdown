@@ -31,12 +31,19 @@ ___
 ##### Cover-More Group (Brisbane) **Aug 2016 – Apr 2017**
 - • Translated the Cover-More's website from English to Spanish
 
+#### Communication Intern
+##### EUSS Enginyeria (Barcelona) **May 2015 – Jul 2015**
+- • Improved the university's website
+- • Managed the university's LinkedIn page and Google Analytics
+- • Did a research about how to develop an online student community
+
 #### Supply Chain Specialist
 ##### GCR Group (Tarragona) **Dec 2013 – Nov 2015**
 - • Processed orders in the SAP system
 - • Managed the manufacturing as well as the procurement of raw materials
 - • Scheduled shipments and negotiated prices with transport providers
 - • Prepared delivery notes and customs clearance documentation
+- • Collaborated with IT consultants to help them to adapt SAP to the company's needs
 
 {:.break-when-print}
 
