@@ -35,6 +35,6 @@ Spanish
 Catalan
 {:.five-stars}
 
-### Hashtags
-
-Linguistics Translation Customer Service Logistics
+### Tags
+___
+`Linguistics` `Translation` `Customer Service` `Logistics` `Marketing` `Communication`
