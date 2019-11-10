@@ -37,4 +37,4 @@ Catalan
 
 ### Tags
 ___
-`Linguistics` `Translation` `Customer Service` `Logistics` `Marketing` `Communication`
+`Communication` `Linguistics` `Translation` `Marketing` `Logistics` `Customer Service`
