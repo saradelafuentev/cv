@@ -20,7 +20,7 @@ SAP
 Ms Excel
 {:.three-stars}
 Adobe Premiere
-{:.three-stars}
+{:.two-stars}
 
 ### Language Skills
 ___
