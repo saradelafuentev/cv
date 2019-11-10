@@ -9,7 +9,7 @@ include: sections/main.html
 ___
 
 #### Localizer
-##### Zoomin TV (Amsterdam) **July 2019 - Onwards**
+##### Zoomin TV (Amsterdam) **Jul 2019 - Onwards**
 
 - • Translating, adapting and editing video content for Spanish speaking countries
 
@@ -21,20 +21,15 @@ ___
 - • Organised the company's events
 - • Managed social media accounts and created social media for daily postings
 
-#### Senior Insurance Advisor
-##### Mazars (Madrid) **Jan 2014 – Sep 2014**
-SCR implementation and calculation in different insurance companies. Calculation
-of technical provisions and best estimates. Review of Market Consistent Embedded
-Value and Solvency II internal model results. Validation of market, life, non
-life and credit risk. Working together with customers as insurance advisor.
+#### Brand Ambassador and Tour Guide
+##### Codorníu Raventós (Barcelona) **Jul 2017 – Dec 2017**
+- • Answered queries both in-person and on the phone
+- • Managed booking requests, cash and billing
+- • Did guided tours at the cellar in English, Spanish and Catalan
 
-`Advisory` `Best Estimate` `MCEV` `Solvency II` `Internal Models` `R`
-
-#### Senior Financial Services
-##### KPMG (Barcelona) **Jan 2011 – Oct 2013**
-Review of Market Consistent Embedded Value and solvency II internal model
-results. Insurance company and pension funds audit and participation in due
-dilligence. Team management and organitzation.
+#### Freelance Translator
+##### Cover-More Group (Brisbane) **Aug 2016 – Apr 2017**
+- • Translated the Cover-More's website from English to Spanish
 
 `Solvency II` `Audit` `Financial Statements` `MCEV` `Internal Models`
 
