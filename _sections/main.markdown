@@ -18,8 +18,10 @@ ___
 
 - • Managed the internal and external communication
 - • Coordinated the translation of content in four languages
-- • Organised the company's events
+- • Managed content with WordPress
 - • Managed social media accounts and created social media for daily postings
+- • Organised the company's events
+- • Improved the budget monitoring and reduced by 15% the expenses in communication
 
 #### Brand Ambassador and Tour Guide
 ##### Codorníu Raventós (Barcelona) **Jul 2017 – Dec 2017**
