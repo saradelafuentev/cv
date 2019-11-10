@@ -3,6 +3,6 @@ order: 1
 # Specify the layout for this section
 include: sections/head.html
 # Variables
-my_name: Sara
-my_short_description: comm
+my_name: SARA DE LA FUENTE
+my_short_description: Localizer & Communication Spc.
 ---
