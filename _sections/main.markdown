@@ -8,22 +8,20 @@ include: sections/main.html
 ### Experience
 ___
 
-#### R Developer
-##### Atradius (Amsterdam) **April 2019 - Now**
+#### Localizer
+##### Zoomin TV (Amsterdam) **July 2019 - Onwards**
 
-Developement and implementation from scratch of Solvency II and risk
-management proceses with R, Shiny and Oracle. Improvement of the ORSA
-methodology and other related aspects of Solvency II.
+-Translating, adapting and editing video content for Spanish speaking countries
 
 `R` `Shiny` `Solvency II` `ORSA` `Oracle` `SQL` `Implementation` `Risk Management`
 
-#### Actuary and R Developer
-##### Crèdit Andorrà (Andorra) **Oct 2014 – Apr 2019**
+#### Communication Manager
+##### Grup Heracles (Andorra) **Mar 2018 – Apr 2019**
 
-SCR implementation and calculation in different insurance companies. Calculation
-of technical provisions and best estimates. Review of Market Consistent Embedded
-Value and Solvency II internal model results. Validation of market, life, non
-life and credit risk. Working together with customers as insurance advisor.
+- Managed the internal and external communication
+• Coordinated the translation of content in four languages
+• Organised the company's events
+• Managed social media accounts and created social media for daily postings
 
 `R` `Actuary` `Solvency II` `ORSA` `Implementation`
 `GLM` `Balance Sheet` `Technical Provisions` `QRT`
