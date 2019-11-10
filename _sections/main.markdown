@@ -11,20 +11,15 @@ ___
 #### Localizer
 ##### Zoomin TV (Amsterdam) **July 2019 - Onwards**
 
--Translating, adapting and editing video content for Spanish speaking countries
-
-`R` `Shiny` `Solvency II` `ORSA` `Oracle` `SQL` `Implementation` `Risk Management`
+- • Translating, adapting and editing video content for Spanish speaking countries
 
 #### Communication Manager
 ##### Grup Heracles (Andorra) **Mar 2018 – Apr 2019**
 
-- Managed the internal and external communication
-• Coordinated the translation of content in four languages
-• Organised the company's events
-• Managed social media accounts and created social media for daily postings
-
-`R` `Actuary` `Solvency II` `ORSA` `Implementation`
-`GLM` `Balance Sheet` `Technical Provisions` `QRT`
+- • Managed the internal and external communication
+- • Coordinated the translation of content in four languages
+- • Organised the company's events
+- • Managed social media accounts and created social media for daily postings
 
 #### Senior Insurance Advisor
 ##### Mazars (Madrid) **Jan 2014 – Sep 2014**
