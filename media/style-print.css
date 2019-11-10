@@ -1,0 +1,326 @@
+* {
+    -webkit-print-color-adjust: exact !important;   /* Chrome, Safari */
+    color-adjust: exact !important;                 /*Firefox*/
+}
+
+body{
+  font-family: 'Open Sans';
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.container{
+  margin: auto;
+  margin-top: -40px;
+  background-color: #fff;
+  box-shadow: 0px 0px 0px 0px rgba(0,0,0,0);
+}
+
+.extrapadding{
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+footer{
+  border-style: solid;
+  border-color: #444;
+  border-width: 4px;
+  padding: 17px 30px 17px 30px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  text-align: center;
+  bottom: 0;
+  width: 920px;
+  position: fixed;
+
+}
+
+.icon{
+  border-radius: 50%;
+  background-color: #fff1e5;
+  border-color: #fff1e5;
+  border-style: solid;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.icon:hover, .icon:focus {
+  color: #444;
+  box-shadow: 0 0 10px 0 #ccc;
+  transition: 500ms;
+  border: .125rem solid #f3f3f3;
+}
+
+.level{
+  border-style: solid;
+  border-color: #444;
+  border-width: 4px;
+  padding: 17px 30px 17px 30px;
+  width: 100%;
+  letter-spacing: 3px;
+  font-weight: 600;
+  margin-top: 50px;
+  margin-bottom: 80px !important;
+}
+
+.lev-left{
+  justify-content: flex-start !important;
+}
+
+.lev-pic::before{
+  content: '';
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  -moz-border-radius: 200px;
+  -webkit-border-radius: 200px;
+  border-radius: 200px;
+  background-color: #fdc3bc;
+  background-image: url("profile.png");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  border-color: #fff;
+  border-width:  thick;
+  border-style: solid;
+}
+
+.lev-right{
+    justify-content: flex-end !important;
+}
+
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+   .lev-pic::before {
+      margin-left: -100px;
+      margin-top: -100px;
+   }
+}
+
+@keyframes shake { /* shake definition*/
+  0% { transform: translate(1px, 1px) rotate(0deg); }
+  10% { transform: translate(-1px, -2px) rotate(-1deg); }
+  20% { transform: translate(-3px, 0px) rotate(1deg); }
+  30% { transform: translate(3px, 2px) rotate(0deg); }
+  40% { transform: translate(1px, -1px) rotate(1deg); }
+  50% { transform: translate(-1px, 2px) rotate(-1deg); }
+  60% { transform: translate(-3px, 1px) rotate(0deg); }
+  70% { transform: translate(3px, 1px) rotate(-1deg); }
+  80% { transform: translate(-1px, -1px) rotate(1deg); }
+  90% { transform: translate(1px, 2px) rotate(0deg); }
+  100% { transform: translate(1px, -2px) rotate(-1deg); }
+}
+
+.is-paper{
+  background-color: #fff1e5;
+  border-color: #fff1e5;
+  border-style: solid;
+  margin-top: 20px;
+  display: none;
+}
+
+strong{
+  align-items:center;
+  background-color: #f2f2f2 !important;
+  border-radius: 4px 4px 4px 4px;
+  color: rgb(29, 114, 170);
+  display: inline-flex;
+  font-size: 12px;
+  height: 24px;
+  font-weight: 400;
+  padding-left: 9px;
+  padding-right: 9px;
+  margin-left: 10px;
+  text-rendering: optimizelegibility;
+}
+
+code{
+  background-color:rgb(255, 255, 255);
+  border-color:rgb(204, 204, 204);
+  color:rgb(74, 74, 74);
+  border-radius: 100px;
+  border-style:solid;
+  padding-left:9px;
+  padding-right:9px;
+  height:24px;
+  border-width: thin;
+  display:inline-flex;
+  font-family:"Open Sans";
+  font-size:12px;
+  font-weight:400;
+  margin-top: 20px;
+}
+
+.subtitle{
+  font-weight: 400;
+  letter-spacing: 5px;
+  font-size: 25px;
+  margin: 5px auto;
+  line-height: 40px;
+}
+
+hr{
+  width: 65px;
+  background-color: black;
+  height: 8px;
+  margin: 15px auto 15px 0 ;
+}
+
+h3{
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 18px;
+  letter-spacing: 5px;
+  margin-top: 20px;
+}
+
+h4{
+  font-size: 21px;
+  line-height: 28px;
+  letter-spacing: 1px;
+  font-weight: 600;
+}
+
+h5{
+  color: rgb(119, 119, 119);
+  font-weight: 400px;
+  margin: 3px 0 10px 0;
+}
+
+h3 {
+  margin-top: 40px;
+}
+
+h3:first-child {
+  margin-top: 0px;
+}
+
+.description > h4 {
+  margin-top: 35px;
+}
+
+.description > hr + h4 {
+  margin-top: 0px;
+}
+
+.description > p {
+text-align: justify;
+text-justify: inter-word;
+}
+
+.side > p + h3 {
+  margin-top: 40px;
+}
+
+.side > p {
+  width: 80%;
+  text-align: justify;
+}
+
+/* stars rating styles*/
+
+p.one-stars{
+  position: relative;
+}
+
+p.one-stars::before{
+  content:  " \f111 \f111 \f111 \f111";
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 200;
+  letter-spacing: 4px;
+  float: right;
+}
+
+p.one-stars::after{
+  content:  " \f111";
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  letter-spacing: 4px;
+  float: right;
+}
+
+p.two-stars{
+  position: relative;
+}
+
+p.two-stars::before{
+  content:  " \f111 \f111 \f111";
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 200;
+  letter-spacing: 4px;
+  float: right;
+}
+
+p.two-stars::after{
+  content:  " \f111 \f111";
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  letter-spacing: 4px;
+  float: right;
+}
+
+p.three-stars{
+  position: relative;
+}
+
+p.three-stars::before{
+  content:  " \f111 \f111";
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 200;
+  letter-spacing: 4px;
+  float: right;
+}
+
+p.three-stars::after{
+  content:  " \f111 \f111 \f111";
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  letter-spacing: 4px;
+  float: right;
+}
+
+p.four-stars{
+  position: relative;
+}
+
+p.four-stars::before{
+  content:  " \f111";
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 200;
+  letter-spacing: 4px;
+  float: right;
+}
+
+p.four-stars::after{
+  content:  " \f111 \f111 \f111 \f111";
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  letter-spacing: 4px;
+  float: right;
+}
+
+p.five-stars{
+  position: relative;
+}
+
+p.five-stars::before{
+  content:  " ";
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 200;
+  letter-spacing: 4px;
+  float: right;
+}
+
+p.five-stars::after{
+  content:  " \f111 \f111 \f111 \f111 \f111";
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  letter-spacing: 4px;
+  float: right;
+}
+
+.break-when-print{
+    display:  block;
+    page-break-after: always;
+}
