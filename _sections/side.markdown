@@ -5,33 +5,31 @@ include: sections/side.html
 # Variables
 ---
 
+### Profile
+___
+I am a linguist and translator specialised in corporate communication and marketing. I am a proactive person always eager to improve the communication channels and procedures of a business. In my next career opportunity, I would like to learn about data analysis and project management.
+
 ### Tech skills
 ___
-R
-{:.five-stars}
-Python
-{:.two-stars}
-Javascript
-{:.one-stars}
-HTML/CSS
+SEO & SEM
+{:.three-stars}
+G Analytics
 {:.four-stars}
-Excel
-{:.five-stars}
+SAP
+{:.three-stars}
+Ms Excel
+{:.three-stars}
 
 ### Language Skills
 ___
 English
 {:.four-stars}
+German
+{:.three-stars}
+Dutch
+{:.one-stars}
 Spanish
 {:.five-stars}
 Catalan
 {:.five-stars}
 
-### Information
-___
-
-Fully qualified fellowship of Col·legi d’Actuaris de Catalunya (CAC) that is
-member of Actuarial Association of Europe (AAE) and International Actuarial
-Association (IAA).
-<br><br>
-Experience with companies like Atradius, Allianz, AXA or Aegon.
