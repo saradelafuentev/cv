@@ -46,8 +46,6 @@ ___
 - • Scheduled shipments and negotiated prices with transport providers
 - • Prepared delivery notes and customs clearance documentation
 - • Collaborated with IT consultants to help them to adapt SAP to the company's needs
-
-
 {:.break-when-print}
 
 ### Education
