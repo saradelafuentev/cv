@@ -19,6 +19,8 @@ SAP
 {:.three-stars}
 Ms Excel
 {:.three-stars}
+Adobe Premiere
+{:.three-stars}
 
 ### Language Skills
 ___
@@ -33,3 +35,6 @@ Spanish
 Catalan
 {:.five-stars}
 
+### Hashtags
+
+Linguistics Translation Customer Service Logistics
