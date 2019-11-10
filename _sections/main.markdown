@@ -31,33 +31,31 @@ ___
 ##### Cover-More Group (Brisbane) **Aug 2016 – Apr 2017**
 - • Translated the Cover-More's website from English to Spanish
 
-`Solvency II` `Audit` `Financial Statements` `MCEV` `Internal Models`
+#### Supply Chain Specialist
+##### GCR Group (Tarragona) **Dec 2013 – Nov 2015**
+- • Processed orders in the SAP system
+- • Managed the manufacturing as well as the procurement of raw materials
+- • Scheduled shipments and negotiated prices with transport providers
+- • Prepared delivery notes and customs clearance documentation
 
-#### Actuary Intership
-##### Generali Group (Barcelona) **Sep 2007 – Apr 2008**
-Settlement of maturities, claims and lapses.
-
-`Actuary`
 {:.break-when-print}
 
 ### Education
 ___
 
-#### Graduated in Financial and Actuarial Science **June 2010**
-##### Universitat de Barcelona  
+#### Certificate IV in Marketing **2016 – 2017**
+##### Australian Pacific College (Brisbane) 
+International marketing, creation of marketing plans and advertising campaigns, creation and management of budgets and risk control.
 
-#### First Degree in Economics **June 2007**
-##### Universitat de Barcelona
+#### Master in Digital Communication **2014 – 2015**
+##### University Abat Oliba (Barcelona)
+Communication project management and digital marketing. Knowledge in SEM and SEO and competences to carry out tasks of community manager and social media analyst.
 
-#### Master in NLP **June 2018**
-##### IL3, Universitat de Barcelona
+#### Translation Studies, Erasmus **2012 – 2012** 
+##### University of Cologne (Cologne)
+Translation subjects as German-Spanish and German-Catalan. English and linguistics subjects.
 
+#### Bachelor Degree in Applied Languages **2009 – 2013**
+##### University Pompeu Fabra (Barcelona)
+Writing, correction, translation and edition of texts, terminology management and cultural mediation. Subjects in the following fields: educative (languages teaching); business (multilingual specialised communication management); technology applications (development and management of software applied to linguistic tasks).
 
-### Teaching
-___
-
-#### Col·legi d’Actuaris de Catalunya **2018 - Now**
-###### Introduction to R from begginer to intermediate
-###### Data manipulation and data bases with R
-###### R graphs
-###### Introduction to predective modelling with R
