@@ -393,7 +393,7 @@ p.five-stars::after{
     -webkit-border-radius: 100px;
     border-radius: 100px;
     background-color: #fdc3bc;
-    background-image: url("profile.jpg");
+    background-image: url("profile.jpeg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -417,7 +417,7 @@ p.five-stars::after{
     -webkit-border-radius: 140px;
     border-radius: 140px;
     background-color: #fdc3bc;
-    background-image: url("profile.jpg");
+    background-image: url("profile.jpeg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -450,7 +450,7 @@ p.five-stars::after{
       -webkit-border-radius: 140px;
       border-radius: 140px;
       background-color: #fdc3bc;
-      background-image: url("profile.jpg");
+      background-image: url("profile.jpeg");
       background-size: contain;
       background-position: center;
       background-repeat: no-repeat;
