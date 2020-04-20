@@ -68,4 +68,3 @@ Translation subjects as German-Spanish and German-Catalan. English and linguisti
 #### Bachelor Degree in Applied Languages **2009 – 2013**
 ##### University Pompeu Fabra (Barcelona)
 Writing, correction, translation and edition of texts, terminology management and cultural mediation. Subjects in the following fields: educative (languages teaching); business (multilingual specialised communication management); technology applications (development and management of software applied to linguistic tasks).
-

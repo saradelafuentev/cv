@@ -1,20 +1,23 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Sara de la Fuente | Resume</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css">
-    <link rel="stylesheet" href="https://codepen.io/wikiki/pen/XagrqJ.css">
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,600' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" media="screen" href="media/style.css">
-    <link rel="stylesheet" media="print" href="media/style-print.css">
-    <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
-  </head>
-  <body>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ site.title }}</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css">
+  <link rel="stylesheet" href="https://codepen.io/wikiki/pen/XagrqJ.css">
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,600' rel='stylesheet' type='text/css'>
+  <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+  <link rel="stylesheet" media="screen" href="media/style.css">
+  <link rel="stylesheet" media="print" href="media/style-print.css">
+  <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
+</head>
+
+<body>
   <div class="container extrapadding has-ribbon">
-    <div class="ribbon is-paper">Hire me!</div>
+    <div class="ribbon is-paper"><a href="media/cv.pdf">print cv!</a></div>
     {% assign sections = site.sections | sort: 'order' %}
     {% for section in sections %}
     {% if section.include != null %}
@@ -23,16 +26,17 @@
     {% include sections/default.html %}
     {% endif %}
     {% endfor %}
-    </div>
-    <footer>
-      <span class="icon">
-      <i class="fab fa-linkedin-in"></i>
-      </span> saradelafuentev
-      <span class="icon">
-      <i class="fab fa-github-alt"></i>
-    </span> saradelafuentev
-
-</footer>
   </div>
-  </body>
+  <footer>
+    <span class="icon">
+      <i class="fab fa-linkedin-in"></i>
+    </span> {{ site.github_username }}
+    <span class="icon">
+      <i class="fab fa-github-alt"></i>
+    </span> {{ site.github_username }}
+
+  </footer>
+  </div>
+</body>
+
 </html>

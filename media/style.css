@@ -12,6 +12,7 @@ body{
   -moz-animation: fadein 1s; /* Firefox */
   -webkit-animation: fadein 1s; /* Safari and Chrome */
   -o-animation: fadein 1s; /* Opera */
+  min-width: 970px;
 }
 
 .extrapadding{
@@ -73,13 +74,15 @@ footer{
   -webkit-border-radius: 200px;
   border-radius: 200px;
   background-color: #fdc3bc;
-  background-image: url("profile.png");
+  background-image: url("profile.jpeg");
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
   border-color: #fff;
-  border-width:  thick;
+  border-width:  5px;
   border-style: solid;
+  -webkit-filter: grayscale(80%);
+  filter: grayscale(80%);
 }
 
 .lev-right{
@@ -91,6 +94,15 @@ footer{
       margin-left: -100px;
       margin-top: -100px;
    }
+}
+
+
+.lev-pic:hover {
+  /* Start the shake animation and make the animation last for 0.5 seconds */
+  animation: shake 0.5s;
+
+  /* When the animation is finished, start again */
+  animation-iteration-count: infinite;
 }
 
 @keyframes shake { /* shake definition*/
@@ -161,12 +173,17 @@ hr{
   margin: 15px auto 15px 0 ;
 }
 
+a {
+  color: rgb(104, 101, 100);
+}
+
 h3{
   text-transform: uppercase;
   font-weight: 600;
   font-size: 18px;
-  letter-spacing: 5px;
+  letter-spacing: 3px;
   margin-top: 20px;
+  font-family: 'Montserrat', sans-serif;
 }
 
 h4{
@@ -349,6 +366,9 @@ p.five-stars::after{
     }
 }
 
+
+
+
 /* media queries */
 
 @media screen and (min-width:1408px){
@@ -373,7 +393,7 @@ p.five-stars::after{
     -webkit-border-radius: 100px;
     border-radius: 100px;
     background-color: #fdc3bc;
-    background-image: url("profile.png");
+    background-image: url("profile.jpg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -382,6 +402,7 @@ p.five-stars::after{
     border-style: solid;
   }
 
+  code {margin-top: 10px !important}
 
 }
 
@@ -390,20 +411,31 @@ p.five-stars::after{
   .lev-pic::before{
     content: '';
     position: absolute;
-    width: 120px;
-    height: 120px;
-    -moz-border-radius: 120px;
-    -webkit-border-radius: 120px;
-    border-radius: 120px;
+    width: 140px;
+    height: 140px;
+    -moz-border-radius: 140px;
+    -webkit-border-radius: 140px;
+    border-radius: 140px;
     background-color: #fdc3bc;
-    background-image: url("profile.png");
+    background-image: url("profile.jpg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
     border-color: #fff;
     border-width:  thick;
     border-style: solid;
-    margin-top: -150px;
+    margin-top: -140px;
+  }
+
+  .container{
+    margin: 80px auto;
+    background-color: #fff;
+    box-shadow: 0px 0px 0px 0px rgba(0,0,0,0.4);
+    animation: fadein 1s;
+    -moz-animation: fadein 1s; /* Firefox */
+    -webkit-animation: fadein 1s; /* Safari and Chrome */
+    -o-animation: fadein 1s; /* Opera */
+    min-width: 80px;
   }
 }
 
@@ -412,13 +444,13 @@ p.five-stars::after{
     .lev-pic::before{
       content: '';
       position: absolute;
-      width: 80px;
-      height: 80px;
-      -moz-border-radius: 120px;
-      -webkit-border-radius: 120px;
-      border-radius: 120px;
+      width: 140px;
+      height: 140px;
+      -moz-border-radius: 140px;
+      -webkit-border-radius: 140px;
+      border-radius: 140px;
       background-color: #fdc3bc;
-      background-image: url("profile.png");
+      background-image: url("profile.jpg");
       background-size: contain;
       background-position: center;
       background-repeat: no-repeat;
@@ -447,6 +479,15 @@ p.five-stars::after{
       padding-top: 50px;
       padding-bottom: 20px;
     }
+
+    .lev-left{
+      justify-content: center !important;
+    }
+
+    .lev-right{
+      justify-content: center !important;
+    }
+
 
 }
 
