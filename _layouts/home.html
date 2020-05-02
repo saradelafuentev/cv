@@ -17,7 +17,7 @@
 
 <body>
   <div class="container extrapadding has-ribbon">
-    <div class="ribbon is-paper"><a href="media/cv.pdf">print cv!</a></div>
+    <div class="ribbon is-paper"><a href="media/Sara_de_la_Fuente_Resume.pdf">save/print</a></div>
     {% assign sections = site.sections | sort: 'order' %}
     {% for section in sections %}
     {% if section.include != null %}
@@ -34,7 +34,9 @@
     <span class="icon">
       <i class="fab fa-github-alt"></i>
     </span> {{ site.github_username }}
-
+    <span class="icon">
+      <i class="fas fa-mobile-alt"></i>
+    </span> {{ site.num }}
   </footer>
   </div>
 </body>
